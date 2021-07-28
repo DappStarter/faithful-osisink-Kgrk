@@ -1,0 +1,13 @@
+{
+    "name": "basit",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "basit",
+        "/category/asset_value_tracking/core-token/symbol": "token",
+        "/category/asset_value_tracking/core-token/supply": "1600000",
+        "/category/asset_value_tracking/core-token/decimals": "6"
+    }
+}
